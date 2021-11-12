@@ -7,7 +7,7 @@ Student at <a href="https://www.srmist.edu.in/">SRM Institute of Science & Techn
 <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="30"> 
 </em></p>
 
-[![Linkedin: jyotiraditya-sikder/](https://img.shields.io/badge/-astroraditya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jyotiraditya-sikder/)](https://www.linkedin.com/in/jyotiraditya-sikder/)
+[![Linkedin: jyotiraditya-sikder/](https://img.shields.io/badge/-Jyotiraditya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jyotiraditya-sikder/)](https://www.linkedin.com/in/jyotiraditya-sikder/)
 [![GitHub Astroraditya](https://img.shields.io/github/followers/astroraditya?label=follow&style=social)](https://github.com/astroraditya)
 ![Visitors](https://visitor-badge.deta.dev/badge?page_id=Astroraditya.astroradityaa)
 
