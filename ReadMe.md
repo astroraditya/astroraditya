@@ -1,11 +1,13 @@
 <h2> Hi, I'm Jyotiraditya Sikder! <img src="https://cdn.dribbble.com/users/27312/screenshots/2297076/dribbble2.gif" width="50"></h2>
-<p><em>
-Student at <a href="https://www.bits-pilani.ac.in/Pilani/index.aspx">Birla Institute of Technology & Science, BITS - Pilani</a>
-<img src="http://static1.squarespace.com/static/57fc2049414fb54b2162f53e/5802cfe05016e19469a61835/5b87fb38aa4a99b038ac8af3/1535638466356/grad+cap.jpg?format=1500w" width="30">
-</br>Successfully completed a 30 days Workshop on <a href="https://events.techanalogy.org/event/webpro">Web & Full Stack Development</a> by 
-<a href="https://techanalogy.org/">TechAnalogy</a>
-<img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="30"> 
-</em></p>
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
+- 🏦 I'm a Student at <a href="https://www.bits-pilani.ac.in/Pilani/index.aspx">Birla Institute of Technology & Science, BITS - Pilani</a>
+      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 💻 I am the Structural & Thermal Engineer of a Students Satellite <a href="https://team-anant.org/">Team Anant </a>
+- 📖 Love to read and sleep together (IsIt?Book:Sleep)
+- 💬 Talk to me about physics, technology, space science & startups
+- 👯 We can connect to know more about us ♟
+- ⚡ Fun fact: Sei curioso di conoscermi
+- 🧑‍💻 Successfully completed a 30 days Internship on Full Stack Development</a> by <a href="https://techanalogy.org/">TechAnalogy</a>
 
 [![Linkedin: jyotiraditya-sikder/](https://img.shields.io/badge/-Jyotiraditya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jyotiraditya-sikder/)](https://www.linkedin.com/in/jyotiraditya-sikder/)
 [![GitHub Astroraditya](https://img.shields.io/github/followers/astroraditya?label=follow&style=social)](https://github.com/astroraditya)
