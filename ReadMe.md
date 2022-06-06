@@ -1,4 +1,4 @@
-# Hi there!  I'm Jyotiraditya Sikder! <img src="https://cdn.dribbble.com/users/27312/screenshots/2297076/dribbble2.gif" width="50"></h2>
+# Hi there!  I'm Jyotiraditya Sikder! <img src="https://www.anecdata.org/img/uploads/userpics/5e00cd42446ec-small.jpg" width="100"></h2>
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 🏦 I'm a Student at <a href="https://www.bits-pilani.ac.in/Pilani/index.aspx">Birla Institute of Technology & Science, BITS - Pilani</a>
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
